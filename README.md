@@ -1,6 +1,8 @@
 1. grade-generator.js code
+   
     a) Description 
-The gradeGenerator function prompts the user to enter student marks, validates the input, and determines the corresponding grade according to the following scale: - A: Marks greater than 79 - B: Marks between 60 and 79 (inclusive) - C: Marks between 50 and 59 (inclusive) - D: Marks between 40 and 49 (inclusive) - E: Marks less than 40 
+The gradeGenerator function prompts the user to enter student marks, validates the input, and determines the corresponding grade according to the following scale: - A: Marks greater than 79 - B: Marks between 60 and 79 (inclusive) - C: Marks between 50 and 59 (inclusive) - D: Marks between 40 and 49 (inclusive) - E: Marks less than 40
+
     b)Usage
  
   1. Install Node.js and the prompt-sync package. 
