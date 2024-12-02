@@ -1,9 +1,9 @@
 1)grade-generator.js code
    
-   a) Description 
+a) Description 
 The gradeGenerator function prompts the user to enter student marks, validates the input, and determines the corresponding grade according to the following scale: - A: Marks greater than 79 - B: Marks between 60 and 79 (inclusive) - C: Marks between 50 and 59 (inclusive) - D: Marks between 40 and 49 (inclusive) - E: Marks less than 40
 
-   b)Usage
+b)Usage
  
    -Install Node.js and the prompt-sync package. 
    -Create a JavaScript file and include the code with prompt-sync. 
@@ -12,9 +12,9 @@ The gradeGenerator function prompts the user to enter student marks, validates t
 
 2)Net-salary-Calculator.js
    
-   a)Description
-      The calculateNetSalary function prompts the user to enter their basic salary and benefits, validates the 
-      input, and calculates the following;
+a)Description
+ The calculateNetSalary function prompts the user to enter their basic salary and benefits, validates the 
+ input, and calculates the following;
     
 -Gross Salary: Sum of basic salary and benefits.
 - PAYE (Tax): Calculated based on Kenyan tax brackets. 
@@ -22,7 +22,7 @@ The gradeGenerator function prompts the user to enter student marks, validates t
 - NSSF Deductions: A fixed amount for simplicity. 
 - Net Salary: Gross salary minus total deductions.
 
-   b)Usage  
+b)Usage  
       
   1. Install Node.js and the prompt-sync package if you haven't already.
   2. Create a JavaScript file and include the code with prompt-sync. 
